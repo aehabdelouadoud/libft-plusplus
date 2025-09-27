@@ -1,1 +1,1 @@
-# libftplusplus
+# libft++
